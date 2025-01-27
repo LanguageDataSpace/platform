@@ -11,10 +11,10 @@ LDS Connector
 
 LDS Partcicipant Registry
 
-| Platform release     |       DAPS                                     |  Registry backend        | Registry UI  |                  | Installation  scripts   |
-| -------------------- | ---------------------------------------------- | ------------------------ |------------- | ---------------- | ----------------------- |
-| 1.0.0-beta prod <br> |   Docker Image: languagedataspace/kc-daps:main |                          |              |                  |                         |
-| 1.0.0-beta dev <br>  |   Docker Image: languagedataspace/kc-daps:main |                          |              |                  |                         |
+| Platform release     |       DAPS                                     |  Registry backend        | Registry UI  |  Installation  scripts   |      URLS                          |
+| -------------------- | ---------------------------------------------- | ------------------------ |------------- |  ----------------------- | ---------------------------------- |
+| 1.0.0-beta prod <br> |   Docker Image: languagedataspace/kc-daps:main |                          |              |                          |  http://ldssetupdev.ilsp.gr:81/    | 
+| 1.0.0-beta dev <br>  |   Docker Image: languagedataspace/kc-daps:main |                          |              |                          |  http://ldssetup.ilsp.gr:2873/     |        
 
 
 
