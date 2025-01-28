@@ -12,7 +12,7 @@ LDS Participant Registry
 
 | Platform release     |       DAPS                                     |  Registry backend        | Registry UI  |   Installation  scripts                                                  |      Participant UI URL            |
 | -------------------- | ---------------------------------------------- | ------------------------ |------------- |  ----------------------------------------------------------------------  | ---------------------------------- |
-| 1.0.0-beta dev <br>  |   Docker Image: languagedataspace/kc-daps:main |                          |              |   https://github.com/LanguageDataSpace/DeploymentCentral/tree/0.8.0      |  http://ldssetup.ilsp.gr:2873/     |        
+| 1.0.0-beta dev <br>  |   Docker Image: languagedataspace/kc-daps:main |                          |              |   https://github.com/LanguageDataSpace/DeploymentCentral/tree/0.8.0      |  http://ldssetupdev.ilsp.gr:81/     |        
 
 
 
