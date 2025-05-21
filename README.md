@@ -18,6 +18,7 @@ You can join LDS by applying at https://ldssetup.ilsp.gr/participant-form. You c
 
 | Platform release     |       DAPS                                     |  Registry backend        | Registry UI  |   Installation  scripts                                                  |      Active deployment             |
 | -------------------- | ---------------------------------------------- | ------------------------ |------------- |  ----------------------------------------------------------------------  | ---------------------------------- |
+| 1.0.0-beta <br>  (sheduled for 07/2025)|   -  |   -     |      -        |   https://github.com/LanguageDataSpace/DeploymentCentral/tree/0.9.0prod  |  http://ldssetup.ilsp.gr/    | 
 | 1.0.0-beta <br> |   Docker Image: languagedataspace/kc-daps:main |       [0.8.0](https://github.com/LanguageDataSpace/lds_participant_registry/tree/0.8.0)     <br> Docker Images: languagedataspace/participant_registry:0.8.0                       | [main](https://github.com/LanguageDataSpace/lds_participant_registry_ui/tree/main) <br> Docker Image: languagedataspace/lds-participant-registry-ui:main             |   https://github.com/LanguageDataSpace/DeploymentCentral/tree/0.8.0prod  |  http://ldssetup.ilsp.gr/    | 
 
 
