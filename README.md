@@ -2,7 +2,7 @@
 
 The Language Data Space (LDS) components are available for installation and testing to the LDS participants during the current phase. 
 
-You can join LDS by applying at https://language-data-space.eu/registryui/participant-form. You can find more information on the process and terms of use for joining LDS at [https://docs.language-data-space.eu/docs/Joining_LDS/Criteria](https://docs.language-data-space.eu/docs/For_end_users/Joining_LDS/Criteria).  
+You can join LDS by applying at https://language-data-space.eu/registryui/participant-form. You can find more information on the process and terms of use for joining LDS at https://docs.language-data-space.eu/docs/For_end_users/Joining_LDS/Criteria.  
 
 
 **LDS Connector**
